@@ -13,7 +13,7 @@ Large language models are very powerful tools for natural language processing, a
 **Fine-tuning GPT-3** (or other open source language models like GPT-2) with a more suitable training set (i.e. from real use-cases) including input queries and their corresponding categories would be a simple and highly effective solution for creating a **state-of-the-art recommendation system**.
 
 ## Run Locally with Docker
-You will need to setup an account at [https://openai.com/api/](https://openai.com/api/) and get your API KEY.
+You will need to setup an account at [https://openai.com/api/](https://openai.com/api/) and get your API KEY.  
 If you are new to Docker, click [here](https://docs.docker.com/get-started/) to install and get started.
 
 1. Pull docker image from hub `docker pull plasticfruits/gpt3-classifier`
