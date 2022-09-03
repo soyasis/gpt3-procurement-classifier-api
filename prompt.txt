@@ -1,0 +1,19 @@
+The following is a list of queries and the categories they fall into.
+
+Example of possible categories:
+"Cleaning", "Hotel & catering supplies", "Shipping, packaging", "Building services engineering", "Medical, therapy, laboratory supplies", "Industrial", "Occupational safety", "Office & warehouse equipment", "Electronics", "Professional Tools", "Computers & accessories", "Stationery"
+
+query: I need a cleaning trolley
+categories: Cleaning, Household, Industrial
+
+query: I need office tables
+categories: Office & warehouse equipment, Furniture
+
+query: I need ink for the printer
+categories: Computers & accessories, Stationary
+
+query: I need cooking utensils
+categories: Hotel & catering supplies, Kitchen
+
+query: I need a new computer
+categories:
