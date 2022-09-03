@@ -23,4 +23,5 @@ If you are new to Docker, click [here](https://docs.docker.com/get-started/) to 
 
 ## Notes
 - See `prompt.txt` for reference on the prompt text that I used.
+- There is a limit on the quota for the API usage, too much use will lead to blocking the requests to avoid further costs.
 - This is not intended as a working solution but as a demonstration of its possibilities.
